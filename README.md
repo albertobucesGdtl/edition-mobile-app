@@ -13,11 +13,11 @@ utilizando el **framework Ionic**, en conjunto con **Angular** para la construcc
 | Herramienta                | Versión recomendada   | Notas                                                    |
 | Node.js                    | 22.x LTS              | <https://nodejs.org/es>                                  |
 | npm (Node Package Manager) | 10.x                  | Se instala con Node.js                                   |
-| Ionic CLI                  | 7.x                   | <https://ionicframework.com/>                            |
+| Ionic CLI                  | 8.x                   | <https://ionicframework.com/>                            |
 | Angular CLI                | 19.x                  | <https://angular.dev/installation>                       |
-| Capacitor                  | 6.x                   | Incluido en Ionic                                        |
-| Java JDK                   | 17.x                  | <https://www.oracle.com/es/java/technologies/downloads/> |
-| Android SDK                | 34.x                  | <https://developer.android.com/studio?hl=es-419>         |
+| Capacitor                  | 8.x                   | Incluido en Ionic                                        |
+| Java JDK                   | 21.x                  | <https://www.oracle.com/es/java/technologies/downloads/> |
+| Android SDK                | 36.x                  | <https://developer.android.com/studio?hl=es-419>         |
 | Git                        | Cualquiera compatible | Para clonar el repositorio                               |
 | Dispositivo móvil Android  | Android 13.x          | Para pruebas físicas                                     |
 

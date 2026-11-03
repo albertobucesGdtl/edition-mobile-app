@@ -431,7 +431,7 @@ export class MapService {
     try {
       const permission = await Geolocation.requestPermissions();
       if(permission.location === 'granted') {
-        position = await Geolocation.getCurrentPosition();
+        position = await Geolocation.getCurrentPosition({enableHighAccuracy: true});
         position= {
           x: position.coords.longitude,
           y: position.coords.latitude
